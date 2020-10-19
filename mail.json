@@ -1,0 +1,9 @@
+{
+  "envelope": {
+    "from": "<sender@example.com>",
+    "to": [
+      "<receiver1@example.com>"
+    ]
+  },
+  "data": "From: sender@example.com\nDate: Sun, 12 Jun 2016 18:03:51 +0200\nSubject: Message\n\nThis is a message"
+}
